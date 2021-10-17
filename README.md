@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebroda&label=Profile%20views&color=0e75b6&style=flat" alt="thebroda" /> </p>
 
-- 🔭 I’m currently working in **Wipro Technologies**
+- 🔭 I’m currently working in **T-Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
