@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Faizaan Ahmed</h1>
 <h3 align="center">A Developer Architect solving business problems using AI-ML and SAP BTP</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebroda&label=Profile%20views&color=0e75b6&style=flat" alt="thebroda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizaanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Faizaanahmed" /> </p>
 
 - 🔭 I’m currently working in **T-Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/faizaanahmed-sapbtp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faizaan-a-ab2550152/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faizaanahmed-sapbtp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faizaanahmed-sapbtp/" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/faizaanahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="faizaanahmed" height="30" width="40" /></a>
 </p>
 
