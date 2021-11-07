@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faizaan Ahmed</h1>
-<h3 align="center">A Developer Architect solving business problems using AI-ML and SAP BTP</h3>
+<h3 align="center">A Developer Architect solving business problems using AI-ML and SAP BTP/AWS/Azure/GCP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizaanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Faizaanahmed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/faizaanahmed-sapbtp/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/0194c38eb64d6ed270f8c88a451d7fde1cca988d/src/images/icons/Social/linked-in.svg" alt="https://www.linkedin.com/in/faizaanahmed-sapbtp/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faizaanahmed-sapbtp/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/faizaanahmed-sapbtp/" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/faizaanahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="faizaanahmed" height="30" width="40" /></a>
 </p>
 
