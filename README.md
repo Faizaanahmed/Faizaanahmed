@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizaanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Faizaanahmed" /> </p>
 
-- 🔭 I’m currently working in **T-Systems**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/faizaanahmed-sapbtp/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/0194c38eb64d6ed270f8c88a451d7fde1cca988d/src/images/icons/Social/linked-in.svg" alt="https://www.linkedin.com/in/faizaanahmed-sapbtp/" height="30" width="40" /></a>
