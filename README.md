@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizaan Ahmed</h1>
-<h3 align="center">A Developer Architect solving business problems using AI-ML and SAP BTP/AWS/Azure/GCP</h3>
+<h3 align="center">technical Architect solving business problems using AI-ML and SAP BTP/AWS/Azure/GCP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizaanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Faizaanahmed" /> </p>
 
