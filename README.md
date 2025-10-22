@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Faizaan;SAP+BTP+%7C+AI%2FML+%7C+SAP AI+Expert;Building+SAP+Innovative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Faizaan;SAP+BTP+%7C+AI%2FML+%7C+SAP+AI+Expert;Building+SAP+Innovative+Solutions&font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435" alt="Typing SVG" />
 </div>
 
 <h3 align="center">SAP BTP Expert | AI/ML Specialist | GenAI Innovation Leader | Enterprise Solutions Architect</h3>
@@ -23,7 +23,6 @@
 
 ### About Me
 - **Award Winner**: SAP Innovation Award 2021 recipient for innovative retail solution
-- **Education**: MTech in IT from VIT, BSc Physics (Hons.) from AMU
 - **Core Expertise**: SAP BTP Administration, SAP AI/GenAI, Python, NodeJS, Machine Learning, Cloud Technologies
 - **Innovation Focus**: Building intelligent solutions that drive digital transformation
 - Currently advancing enterprise AI capabilities and cloud-native architectures
